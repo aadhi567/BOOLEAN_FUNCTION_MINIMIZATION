@@ -1,5 +1,7 @@
 # BOOLEAN_FUNCTION_MINIMIZATION
 
+Developed by:AADHITHAN B RegisterNumber:212224040001
+
 **AIM:**
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
@@ -46,7 +48,7 @@ output F2;
 assign F2=((~y&z)|(x&y)|(w&y));
 endmodule
 ~~~
-Developed by:AADHITHAN B RegisterNumber:212224040001
+
 
 
 
